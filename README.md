@@ -3,6 +3,11 @@ Generally rated by :star: (1 to 5)
 
 ## Markdown Summaries
 
+### Intro Level
+- [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw) :star: :star: :star: :star:
+- [Programming Paradigms - Computerphile](https://www.youtube.com/watch?v=sqV3pL5x8PI)
+
+
 ### Python Talks
 Links are to the actual video, summaries are in folder.
  - [Stop Writing Classes](http://pyvideo.org/pycon-us-2012/stop-writing-classes.html) :star: :star: :star:
@@ -15,6 +20,8 @@ Links are to the actual video, summaries are in folder.
 ### Misc
 - #TODO [How To Shut Down Tolkien - Brandon Rhodes](https://www.youtube.com/watch?v=qVlqBxpCG24) :star: :star:
 - #TODO [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) :star: :star:
+- # [Larry Wall: 5 Programming Languages Everyone Should Know](https://www.youtube.com/watch?v=LR8fQiskYII)  :star: :star: :star: :star:
+
 
 
 
